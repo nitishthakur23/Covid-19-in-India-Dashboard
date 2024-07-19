@@ -30,14 +30,4 @@ The number of new COVID-19 cases has been increasing daily around the world. Thi
 - **Daily Case Updates:** Track new COVID-19 cases by state and union territory.
 - **Testing Metrics:** View testing rates and trends over time.
 - **Vaccination Progress:** Monitor vaccination efforts and coverage.
-
-## Getting Started
-
-1. **Clone or Download:**
-   Clone or download this repository to your local machine.
-
-2. **Install Dependencies:**
-   Ensure you have the necessary libraries installed to run the dashboard. Install them using:
-
-   ```bash
-   pip install -r requirements.txt
+- and many more check out [Data_source_COVID-19](https://github.com/nitishthakur23/Covid-19-in-India-Dashboard/blob/main/Data_source_COVID-19.zip)
